@@ -10,4 +10,4 @@ Requirements:
 * works on all devices (responsive, ...)
 -------------------------------------------------------
 
-![alt text](https://github.com/TigerDevloper/html-round-checkbox/master/feedback.png)
+![alt text](https://github.com/TigerDevloper/html-round-checkbox/master/feedback.PNG)
