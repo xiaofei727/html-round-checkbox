@@ -8,3 +8,6 @@ Requirements:
 * use bootstrap if necessary
 * works on all browsers
 * works on all devices (responsive, ...)
+-------------------------------------------------------
+
+![alt text](https://github.com/TigerDevloper/html-round-checkbox/master/feedback.PNG)
